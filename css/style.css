@@ -57,6 +57,37 @@
     width: 2%;
 }
 
+@media (max-width: 576px){
+    .c-items button{
+        width: 12%;
+    }
+}
+
+
+@media (min-width: 576px){
+    .c-items button{
+        width: 12%;
+    }
+}
+
+@media (min-width: 768px){
+    .c-items button{
+        width: 9%;
+    }
+}
+@media (min-width: 992px){
+    .c-items button{
+        width: 7%;
+    }
+}
+
+@media (min-width: 1200px){
+    .c-items button{
+        width: 5%;
+    }
+}
+
+
 .about-us .col-12{
     padding-bottom: 3%;
 
